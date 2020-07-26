@@ -1,0 +1,8 @@
+def high_and_low(numbers):
+    arraypos = 0
+    nlist = numbers.split(" ")
+    for i in nlist:
+        nlist[arraypos] = int(i)
+        arraypos += 1
+    nlist = sorted(nlist)
+    return str(max(nlist)) + " " + str(min(nlist))
