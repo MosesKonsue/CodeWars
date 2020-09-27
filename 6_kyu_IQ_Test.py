@@ -21,6 +21,6 @@ def iq_test(numbers):
             counter += 1
             
             
-###Bob is preparing to pass IQ test. The most frequent task in this test is to find out which one of the given numbers differs from the others.
+"""Bob is preparing to pass IQ test. The most frequent task in this test is to find out which one of the given numbers differs from the others.
 Bob observed that one number usually differs from the others in evenness. Help Bob — to check his answers, he needs a program that among the given numbers 
-finds one that is different in evenness, and return a position of this number.###
+finds one that is different in evenness, and return a position of this number."""
